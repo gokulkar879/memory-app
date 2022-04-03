@@ -3,14 +3,14 @@ import './App.css';
 import Card from './Card';
 
 const cardImages = [
-  {"src":"/img/bird.jpg"},
-  {"src":"/img/bugs.jpg"},
-  {"src":"/img/cart.jpg"},
-  {"src":"/img/dora.png"},
-  {"src":"/img/doremon.jpg"},
-  {"src":"/img/Mickey-Mouse.jpg"},
-  {"src":"/img/monkey.jpg"},
-  {"src":"/img/squd.png"}
+  {"src":"./img/bird.jpg"},
+  {"src":"./img/bugs.jpg"},
+  {"src":"./img/cart.jpg"},
+  {"src":"./img/dora.png"},
+  {"src":"./img/doremon.jpg"},
+  {"src":"./img/Mickey-Mouse.jpg"},
+  {"src":"./img/monkey.jpg"},
+  {"src":"./img/squd.png"}
 ] 
 
 
